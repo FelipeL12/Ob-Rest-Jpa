@@ -1,0 +1,6 @@
+com\example\obrestdatajpa\ObRestDatajpaApplication.class
+com\example\obrestdatajpa\controller\HelloController.class
+com\example\obrestdatajpa\entities\Book.class
+com\example\obrestdatajpa\repository\BookRepository.class
+com\example\obrestdatajpa\config\SwaggerConfig.class
+com\example\obrestdatajpa\controller\BookController.class
